@@ -1,2 +1,2 @@
 
-Simple Resume uploader Where people can upload there resume 
+ Resume uploader Where people can upload there resume 
